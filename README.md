@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ### 🔭  I’m currently working at VCCorp as an Android Developer
 ### 🌱  I’m currently interested in learning Kotlin and modern Android development (MAD), Jetpack Compose... etc
 ### 🤔  I also want to put a step into the backend development world too
-### ⚡  Fact: I have a lifetime crush but it isn't a happy ending story 😐
 ### 📫  You can reach me via email at trungdunghoang125@gmail.com
 <br>
 <img src="https://komarev.com/ghpvc/?username=trungdunghoang125&style=flat-square&color=blue" alt=""/>
